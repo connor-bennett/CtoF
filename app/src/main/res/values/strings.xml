@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CtoF</string>
+    <string name="ctof_label_correct">Celsius to Fahrenheit</string>
+    <string name="ctofButton">CONVERT!</string>
+    <string name="hintText">Enter a value to convert</string>
+</resources>
